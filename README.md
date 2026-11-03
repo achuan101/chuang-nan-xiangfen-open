@@ -2,6 +2,11 @@
 
 > 一款基于 Cocos Creator 3.8 与 TypeScript 开发的休闲治愈系调香模拟经营微信小游戏。
 
+<p align="center">
+  <img src="docs/images/miniprogram-qrcode.jpg" width="180" alt="微信小游戏码" /><br>
+  <sub>📱 微信扫码立即体验</sub>
+</p>
+
 ---
 
 ## 📌 项目状态说明
