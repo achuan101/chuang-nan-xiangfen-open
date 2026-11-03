@@ -16,6 +16,19 @@
 
 ---
 
+## 📸 游戏界面预览
+
+<p align="center">
+  <img src="docs/images/screenshot-shop.png" width="220" alt="铺面经营" />
+  <img src="docs/images/screenshot-craft.png" width="220" alt="研制工台" />
+  <img src="docs/images/screenshot-window.png" width="220" alt="窗台植栽" />
+  <img src="docs/images/screenshot-gallery.png" width="220" alt="藏香图谱" />
+  <br>
+  <sub>从左至右依次为：① 铺面经营（客单交互与货架陈列） ｜ ② 研制工台（自由合香与掌柜香谱） ｜ ③ 窗台植栽（原料采摘与储香阁） ｜ ④ 藏香图谱（12款香氛全图鉴）</sub>
+</p>
+
+---
+
 ## ✨ 核心玩法闭环
 
 1. **窗台采摘原料**：定时刷新 8 种基础香调原料（朝露、晚风、沉檀、绒花等），点击采摘收取入库。
