@@ -1,0 +1,66 @@
+[
+  {
+    "id": "A",
+    "name": "雨后",
+    "colorHex": "#7EC8C8",
+    "tags": ["清新", "水"],
+    "icon": "art/notes/A.png",
+    "unlockDay": 1
+  },
+  {
+    "id": "B",
+    "name": "窗南",
+    "colorHex": "#F9D57E",
+    "tags": ["暖", "日晒"],
+    "icon": "art/notes/B.png",
+    "unlockDay": 1
+  },
+  {
+    "id": "C",
+    "name": "青橘",
+    "colorHex": "#FFAA5A",
+    "tags": ["果", "醒神"],
+    "icon": "art/notes/C.png",
+    "unlockDay": 2
+  },
+  {
+    "id": "D",
+    "name": "茶汤",
+    "colorHex": "#8FA67A",
+    "tags": ["木", "静"],
+    "icon": "art/notes/D.png",
+    "unlockDay": 2
+  },
+  {
+    "id": "E",
+    "name": "绒花",
+    "colorHex": "#F4B6C2",
+    "tags": ["花", "送人"],
+    "icon": "art/notes/E.png",
+    "unlockDay": 1
+  },
+  {
+    "id": "F",
+    "name": "晚风",
+    "colorHex": "#8A9CD8",
+    "tags": ["静", "夜"],
+    "icon": "art/notes/F.png",
+    "unlockDay": 3
+  },
+  {
+    "id": "G",
+    "name": "朝露",
+    "colorHex": "#E2F0CB",
+    "tags": ["清新", "草"],
+    "icon": "art/notes/G.png",
+    "unlockDay": 3
+  },
+  {
+    "id": "H",
+    "name": "沉檀",
+    "colorHex": "#D4B895",
+    "tags": ["木", "暖"],
+    "icon": "art/notes/H.png",
+    "unlockDay": 3
+  }
+]

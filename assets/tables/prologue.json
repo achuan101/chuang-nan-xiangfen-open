@@ -1,0 +1,51 @@
+[
+  {
+    "panelIndex": 1,
+    "speaker": "旁白",
+    "text_cn": "深秋细雨，木车落叶。",
+    "text_en": "Cold rain on an old cart.",
+    "text_ta": "மழை, பழைய வண்டி.",
+    "sfx": "雨打落叶 沙沙",
+    "sfx_en": "Rustling rain",
+    "sfx_ta": "மழை ஒலி",
+    "mood": "gloomy"
+  },
+  {
+    "panelIndex": 2,
+    "speaker": "手账",
+    "text_cn": "气味是时光的解药。",
+    "text_en": "Scent is the remedy of time.",
+    "text_ta": "நறுமணம் காலத்தின் மருந்து.",
+    "mood": "gloomy"
+  },
+  {
+    "panelIndex": 3,
+    "speaker": "维克多",
+    "text_cn": "小作坊没前途，卖了吧。",
+    "text_en": "Sell your shop. No future.",
+    "text_ta": "கடையை விற்றுவிடு.",
+    "mood": "intense"
+  },
+  {
+    "panelIndex": 4,
+    "speaker": "主角",
+    "text_cn": "手工的温度，你们不懂。",
+    "text_en": "You can't make warmth.",
+    "text_ta": "கைவினை சூடு உனக்கு புரியாது.",
+    "sfx": "撕拉",
+    "sfx_en": "Rip!",
+    "sfx_ta": "கிழிக்கும் ஒலி",
+    "mood": "warm"
+  },
+  {
+    "panelIndex": 5,
+    "speaker": "旁白",
+    "text_cn": "咔嗒，炉火燃起启程。",
+    "text_en": "Click. The little fire starts.",
+    "text_ta": "அடுப்பு எரிகிறது. தொடக்கம்.",
+    "sfx": "咔嗒 · 呼——",
+    "sfx_en": "Click · Whoosh",
+    "sfx_ta": "தீப்பொறி",
+    "mood": "warm"
+  }
+]

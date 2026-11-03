@@ -1,0 +1,17 @@
+{
+  "name": "chuang-nan-xiangfen",
+  "uuid": "ed86237f-47fb-4384-b89f-7f7a95cf9b29",
+  "creator": {
+    "version": "3.8.8"
+  },
+  "scripts": {
+    "lint": "tsc --noEmit",
+    "check": "node tests/build-check.mjs",
+    "check:ui": "node tests/build-check.mjs layoutCheck"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "esbuild": "^0.25.9",
+    "typescript": "^7.0.2"
+  }
+}

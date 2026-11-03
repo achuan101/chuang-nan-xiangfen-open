@@ -1,0 +1,8 @@
+{
+  "name": "窗南香氛铺",
+  "description": "微信小游戏「窗南香氛铺」Web移植版：收原料、调香合成、定香出瓶、客人订单交付与货架布置模拟经营",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

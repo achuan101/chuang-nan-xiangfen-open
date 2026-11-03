@@ -1,0 +1,14 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "6befb0d7-c567-4477-9b52-7b6c7cd99887",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "isBundle": true,
+    "bundleName": "art",
+    "priority": 1,
+    "compressionType": "subpackage"
+  }
+}

@@ -1,0 +1,93 @@
+[
+  {
+    "id": "recipe_spring_letter",
+    "inputs": ["A", "E"],
+    "match": "tags:清新+花",
+    "bottleId": "spring_letter",
+    "result": "success"
+  },
+  {
+    "id": "recipe_evening_lamp",
+    "inputs": ["B", "D"],
+    "match": "tags:暖+静",
+    "bottleId": "evening_lamp",
+    "result": "success"
+  },
+  {
+    "id": "recipe_courtyard_orange",
+    "inputs": ["A", "C"],
+    "match": "tags:清新+果",
+    "bottleId": "courtyard_orange",
+    "result": "success"
+  },
+  {
+    "id": "recipe_sun_rain",
+    "inputs": ["A", "B"],
+    "match": "tags:清新+暖",
+    "bottleId": "sun_rain",
+    "result": "success"
+  },
+  {
+    "id": "recipe_tea_petal",
+    "inputs": ["D", "E"],
+    "match": "tags:木+花",
+    "bottleId": "tea_petal",
+    "result": "success"
+  },
+  {
+    "id": "recipe_citrus_blossom",
+    "inputs": ["C", "E"],
+    "match": "tags:果+花",
+    "bottleId": "citrus_blossom",
+    "result": "success"
+  },
+  {
+    "id": "recipe_night_breeze",
+    "inputs": ["F", "D"],
+    "match": "tags:静+夜",
+    "bottleId": "night_breeze",
+    "result": "success"
+  },
+  {
+    "id": "recipe_morning_dew",
+    "inputs": ["G", "A"],
+    "match": "tags:草+水",
+    "bottleId": "morning_dew",
+    "result": "success"
+  },
+  {
+    "id": "recipe_warm_sandalwood",
+    "inputs": ["H", "B"],
+    "match": "tags:暖+木",
+    "bottleId": "warm_sandalwood",
+    "result": "success"
+  },
+  {
+    "id": "recipe_flower_dew",
+    "inputs": ["G", "E"],
+    "match": "tags:清新+花",
+    "bottleId": "flower_dew",
+    "result": "success"
+  },
+  {
+    "id": "recipe_quiet_night",
+    "inputs": ["F", "C"],
+    "match": "tags:夜+果",
+    "bottleId": "quiet_night",
+    "result": "success"
+  },
+  {
+    "id": "recipe_deep_wood",
+    "inputs": ["H", "D"],
+    "match": "tags:木+静",
+    "bottleId": "deep_wood",
+    "result": "success"
+  },
+  {
+    "id": "fallback_practice",
+    "inputs": [],
+    "match": "*",
+    "bottleId": "practice_bottle",
+    "result": "fail"
+  }
+]

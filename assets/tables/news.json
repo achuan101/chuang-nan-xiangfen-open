@@ -1,0 +1,58 @@
+[
+  {
+    "day": 1,
+    "chapter": "act1",
+    "headline": "连日细雨初晴，风车麦原野花大丰收！",
+    "headline_en": "Sun after rain, wild flowers bloom!",
+    "headline_ta": "மழைக்கு பின் மலர்கள்!",
+    "summary": "鲜花堆满小镇，商会却暂停采收。花农们聚在广场盼着销路，小镇花香漫溢。",
+    "summary_en": "Flowers fill the town. Farmers gather at the square with sweet scents.",
+    "summary_ta": "நகரமெங்கும் மலர்கள். மணம் வீசுகிறது.",
+    "illustration": "art/ui/news_day1.png",
+    "marketEffect": "花系原料采收耗时缩短，花农送花意愿极高",
+    "marketEffect_en": "Flower harvest is faster today.",
+    "marketEffect_ta": "மலர் பறிக்கும் நேரம் குறைவு."
+  },
+  {
+    "day": 2,
+    "chapter": "act1",
+    "headline": "神秘移动工坊现身广场，手作香氛引发街坊热议！",
+    "headline_en": "Antique cart opens at the square!",
+    "headline_ta": "பழைய வண்டி கடையில் நறுமணம்!",
+    "summary": "一辆古董木车挂出窗南招牌。小店香氛温润纯粹，远超流水线产品。",
+    "summary_en": "Handcrafted scents warm the street, far exceeding factory perfumes.",
+    "summary_ta": "கைவினை நறுமணம் அனைவரையும் ஈர்க்கிறது.",
+    "illustration": "art/ui/news_day2.png",
+    "marketEffect": "小镇散客进店率提升 20%，提神类需求增加",
+    "marketEffect_en": "Guest visits +20%.",
+    "marketEffect_ta": "விருந்தினர் வருகை +20%."
+  },
+  {
+    "day": 3,
+    "chapter": "act1",
+    "headline": "麦原小镇追寻雨后泥土香，平民爆款名香呼之欲出！",
+    "headline_en": "Poet praises fresh rain scents!",
+    "headline_ta": "மழை நறுமணத்திற்கு பாராட்டு!",
+    "summary": "诗人卢卡在树下弹唱新曲《四月的晨雨》，盛赞手作匠人。镇民纷纷前往广场探店。",
+    "summary_en": "Luka plays 'April Rain' under the tree. Townsfolk visit the shop.",
+    "summary_ta": "கவிஞர் லூகா கடையை புகழ்கிறார்.",
+    "illustration": "art/ui/news_day3.png",
+    "marketEffect": "【清新】与【水】标签香水在货架上享有双倍客流吸引力",
+    "marketEffect_en": "Fresh & Water scents draw 2x guests.",
+    "marketEffect_ta": "Fresh & Water நறுமணம் 2x விருந்தினர்."
+  },
+  {
+    "day": 4,
+    "chapter": "act1",
+    "headline": "《春日纸信》风靡全镇！商会宣布高价包圆鲜花！",
+    "headline_en": "Spring Letter hits the town!",
+    "headline_ta": "வசந்த மடல் பெரும் வெற்றி!",
+    "summary": "治愈名香《春日纸信》排队跨越街区！街坊口碑发酵，花农们全凭店长一句话！",
+    "summary_en": "Queues line the street for Spring Letter! Reputation spreads everywhere.",
+    "summary_ta": "Spring Letter வாங்க நீண்ட வரிசை!",
+    "illustration": "art/ui/news_day4.png",
+    "marketEffect": "名香声誉大涨，顾客赏钱额外提升 20%",
+    "marketEffect_en": "Tips and rewards +20%.",
+    "marketEffect_ta": "பரிசுத் தொகை +20%."
+  }
+]

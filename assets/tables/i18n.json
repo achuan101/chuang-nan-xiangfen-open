@@ -1,0 +1,331 @@
+{
+  "notes": {
+    "A": "雨后",
+    "B": "窗南",
+    "C": "青橘",
+    "D": "茶汤",
+    "E": "绒花",
+    "F": "晚风",
+    "G": "朝露",
+    "H": "沉檀"
+  },
+  "tags": {
+    "清新": "清新",
+    "花": "花",
+    "水": "水",
+    "暖": "暖",
+    "日晒": "日晒",
+    "果": "果",
+    "醒神": "醒神",
+    "木": "木",
+    "静": "静",
+    "送人": "送人",
+    "夜": "夜",
+    "草": "草"
+  },
+  "bottles": {
+    "spring_letter": {
+      "name": "春日纸信",
+      "blurb": "进门换鞋那一瞬"
+    },
+    "evening_lamp": {
+      "name": "晚归灯",
+      "blurb": "屋檐下等你的那盏昏黄"
+    },
+    "courtyard_orange": {
+      "name": "院角青橘",
+      "blurb": "院子里刚剥开的那层青皮"
+    },
+    "sun_rain": {
+      "name": "窗南雨后",
+      "blurb": "太阳雨落进木格窗的潮润"
+    },
+    "tea_petal": {
+      "name": "茶韵落花",
+      "blurb": "刚沸的瓷壶旁落了一瓣桃粉"
+    },
+    "citrus_blossom": {
+      "name": "蜜橘绒花",
+      "blurb": "枕头晒饱了柑橘香气"
+    },
+    "night_breeze": {
+      "name": "晚风微凉",
+      "blurb": "吹散晚霞的那阵穿堂风"
+    },
+    "morning_dew": {
+      "name": "晨露幽兰",
+      "blurb": "踏着晨光掐下的那一剪带露嫩叶"
+    },
+    "warm_sandalwood": {
+      "name": "暖阳沉香",
+      "blurb": "阳光斜晒在老木柜上的沉稳木香"
+    },
+    "flower_dew": {
+      "name": "繁花晓露",
+      "blurb": "晨雾退去时花瓣上将落未落的清润"
+    },
+    "quiet_night": {
+      "name": "幽夜静谧",
+      "blurb": "熄了灯后枕边淡淡的松针微凉"
+    },
+    "deep_wood": {
+      "name": "空谷幽木",
+      "blurb": "走入空谷老林后第一口沁凉木质香"
+    },
+    "practice_bottle": {
+      "name": "练习瓶",
+      "blurb": "试香随手封存的小瓶"
+    }
+  },
+  "guests": {
+    "guest_walk": {
+      "name": "散步的邻居",
+      "dialog": "今天想闻起来干净一点。"
+    },
+    "guest_student": {
+      "name": "捧书的少女",
+      "dialog": "想找一瓶像晴天院子里的味道。"
+    },
+    "guest_tea": {
+      "name": "采茶寻香的茶客",
+      "dialog": "新茶刚焙好，想找一味带露水草香的清润香气佐茶。"
+    },
+    "guest_commuter": {
+      "name": "晚归的旅人",
+      "dialog": "累了一整天，想找点让人心安的沉静香气。"
+    },
+    "guest_afternoon": {
+      "name": "晒太阳的阿姨",
+      "dialog": "想带一点窗子上的暖意回家。"
+    },
+    "guest_night": {
+      "name": "乘凉的街坊",
+      "dialog": "夏夜的风里要是有点香气就好了。"
+    },
+    "guest_flower": {
+      "name": "插花弄草的姑娘",
+      "dialog": "院里的素馨花刚剪下来，还想配一瓶水汽透亮的花香。"
+    },
+    "guest_artisan": {
+      "name": "手作木器的小哥",
+      "dialog": "刚刨好一段樟木小盒，想寻一味温厚沉稳的木香。"
+    },
+    "guest_poetry": {
+      "name": "倚窗赋诗的书客",
+      "dialog": "雨声淅沥，就盼着一缕幽微安适的清净香气。"
+    },
+    "guest_book": {
+      "name": "找灵感的画师",
+      "dialog": "想找点木质调的味道，能让人沉下心来。"
+    },
+    "guest_fruit": {
+      "name": "带小孩的母亲",
+      "dialog": "有那种甜滋滋的果子香吗？家里的小孩喜欢。"
+    },
+    "guest_luca": {
+      "name": "游方乐师·卢卡",
+      "dialog": "酒馆里太喧闹了，就想寻一味山野雨后青草泥土的清润草香佐琴。"
+    },
+    "guest_arya": {
+      "name": "远行学者·艾莉亚",
+      "dialog": "连夜整理草木考察札记，最盼着一缕如清晨微风般干干净净的清凉。"
+    },
+    "guest_hans": {
+      "name": "舶来客商·汉斯",
+      "dialog": "船队远洋归航靠岸，就想带一味如壁炉烘晒般踏实温暖的暖意回家。"
+    },
+    "guest_mia": {
+      "name": "寻香少女·米娅",
+      "dialog": "江南水乡集市上的甜果子真诱人，想挑一瓶水灵欢快的鲜果香带走。"
+    },
+    "guest_jinyunu": {
+      "name": "戏班名伶·金玉奴",
+      "dialog": "今夜梨园有大戏开锣，登台前想寻一抹幽雅出尘的月下夜调伴我水袖起舞。"
+    }
+  },
+  "decor": {
+    "shelf_1": "旧木四格",
+    "shelf_2": "窗南八格",
+    "shelf_3": "通透十二格",
+    "paper_warm": "午后暖阳",
+    "paper_breeze": "风铃草丘",
+    "paper_snow": "冰雪初冬",
+    "paper_night": "静谧夜阑",
+    "paper_mint": "青瓷微雨",
+    "paper_dusk": "暮色斜阳",
+    "rug_none": "无地毯",
+    "rug_flower": "碎花绒毯",
+    "rug_wood": "编织藤垫",
+    "rug_mint": "薄荷薄毯",
+    "light_none": "自然光",
+    "light_warm": "暖黄吊灯",
+    "light_moon": "月白纱灯",
+    "light_amber": "琥珀台灯"
+  },
+  "ui": {
+    "tab_shop": "铺面",
+    "tab_bench": "工台",
+    "tab_window": "窗台",
+    "tab_album": "图鉴",
+    "tab_decor": "装修",
+    "action_pick": "采摘",
+    "action_switch_seed": "换种",
+    "action_blend": "调配",
+    "action_cure": "定香中",
+    "action_claim": "出瓶",
+    "action_speedup": "观看短片加速",
+    "action_speedup_card": "⚡ 加速卡",
+    "action_deliver": "交付",
+    "action_shelf": "上架",
+    "action_clear": "回收",
+    "action_upgrade": "扩建",
+    "action_buy": "购买",
+    "action_use": "使用",
+    "action_in_use": "使用中",
+    "action_close": "✕",
+    "hud_ap": "行动点",
+    "hud_coin": "金币",
+    "hud_speedup": "⚡ 加速卡",
+    "scene_shop": "窗南香氛铺",
+    "scene_bench": "研制工台",
+    "scene_window": "窗台植栽",
+    "scene_album": "藏香图谱",
+    "scene_decor": "铺面雅筑",
+    "album_tab_bottles": "📖 研制图谱 · 香谱",
+    "album_tab_guests": "♥ 熟客随喜 · 评定好感",
+    "album_zoom": "🔍 放大",
+    "album_craft": "前往研制",
+    "decor_wallpapers": "窗景壁纸",
+    "decor_rugs": "绒毯铺地",
+    "decor_lights": "氛围纱灯",
+    "cost_ap": "行动点 -{n}",
+    "order_need": "需要：",
+    "guest_satisfied": "十分满意！",
+    "guest_reward": "赏金",
+    "drawer_title": "成品小屉",
+    "shelf_title": "今日货架",
+    "shelf_upgrade_hint": "扩建货架",
+    "shelf_slot_cost": "🪙 {n} 扩建至 {slots} 格",
+    "shelf_empty": "空置",
+    "shelf_put_on": "上架",
+    "clear_practice_hint": "回收练习瓶 ×{n}",
+    "bench_cabinet_title": "🌿 调香原料案",
+    "bench_cabinet_sub": "点选香调置入合香池",
+    "bench_crucible_title": "🍶 合香池",
+    "clear_slots": "🔄 清空槽位",
+    "bench_slot_a": "放入香调 A",
+    "bench_slot_b": "放入香调 B",
+    "bench_fill_btn": "✨ 放入 {a}＋{b}",
+    "bench_fill_tip": "点此放入两味香调，再点一次才开始研香",
+    "bench_guide_title": "📜 掌柜香方谱",
+    "bench_guide_can_craft": "✨可调",
+    "bench_guide_close": "收起 ▴",
+    "bench_guide_open": "展开 ▾",
+    "farm_chip_ready": "🌱 {n}盆待采",
+    "farm_chip_growing": "🌱 培育中",
+    "farm_storage_pill": "🧺 窗南储香阁 · 原料库存 (已存 {n} 份原料) {arrow}",
+    "farm_storage_badge": "已存 {n} 份原料",
+    "farm_no_stock": "无库存",
+    "farm_go_bench": "🧴 前往工台研香 →",
+    "farm_go_bench_done": "🧴 采摘完毕，前往工台研香 →",
+    "album_tab_bottles_count": "📖 研制图谱 · 香谱 ({collected}/{total})",
+    "album_tab_guests_title": "♥ 熟客随喜 · 评定好感",
+    "album_prog_title": "📜 窗南香典录 · 研制图谱",
+    "album_prog_badge": "{collected} / {total} 款 ({percent}%)",
+    "album_prog_sub": "研制调配出新香氛即可入卷收录 · 探索全部配方成为名动街坊的调香掌柜",
+    "album_flip_tip": "点击翻面 ↻",
+    "album_flip_back": "点击翻回正面 ↺",
+    "album_locked_name": "待探明",
+    "album_locked_tag": "[含『{tag}』韵]",
+    "album_recipe_pill": "配方：{recipe}",
+    "album_clue_pill": "线索：{recipe}",
+    "album_seal_done": "已录",
+    "album_guest_head_title": "♥ 窗南知心熟客谱",
+    "album_guest_head_desc": "掌柜可为顾客评定心意，好感度越高的熟客光顾越频繁。",
+    "album_back_lore_fallback": "江南巧匠研制，芬芳悠远。",
+    "shelf_slot_empty": "空位 {n}\n点按上架",
+    "shelf_slot_take_back": "{name}\n点按取回",
+    "bench_pair_tip": "两味香调相融，经定香后方成温润好物",
+    "bench_pick_note_first": "先去窗台采香",
+    "bench_choose_two_notes": "放入两份香料开始研制",
+    "bench_tap_notes_tip": "点香调放入左右槽",
+    "bench_curing_in_crucible": "温鼎正凝香中，稍待出瓶",
+    "bench_start_craft": "✨ 开始研制【{name}】（消耗 2 行动点）",
+    "atmosphere_no_guest": "店里暂时没客人，过一会儿再来看看。",
+    "atmosphere_shelf_empty_no_inv": "货架和行囊都空了，去窗台采香、工台调一瓶吧。",
+    "atmosphere_shelf_empty": "货架空着：点空位上架行囊成品，或去工台研制。",
+    "atmosphere_welcome": "欢迎回来。交货、上架或去窗台采一点新香调都行。",
+    "prologue_title": "📜 窗南旧忆 · 序章 ({curr}/{total})",
+    "prologue_skip": "跳过 ›",
+    "prologue_continue": "点击任意处继续 ›",
+    "prologue_speaker_旁白": "旁白",
+    "prologue_speaker_手账": "手账",
+    "prologue_speaker_维克多": "维克多",
+    "prologue_speaker_主角": "主角",
+    "tut_badge": "🏮 新人指引 ({phase}/{total}) · {name}",
+    "tut_pill": "🏮 指引 ({phase}/{total}) · {name}：{tip} ›",
+    "tut_sub_btn": "先关掉卡片，我自己点",
+    "tut_skip_btn": "跳过指引",
+    "tut_phase_1": "采摘原料",
+    "tut_title_1": "采摘新鲜原料",
+    "tut_story_1": "窗南小铺新开张，窗台种植的「雨后」香调已经成熟。先前往窗台采摘原料吧！",
+    "tut_action_window": "前往「窗台」",
+    "tut_action_harvest": "采摘雨后",
+    "tut_tip_go_window": "点击下方「窗台」，去采摘雨后香调",
+    "tut_tip_harvest": "点击 1 号盆「采摘」，收获雨后香调",
+    "tut_phase_2": "调和香氛",
+    "tut_title_2": "调配首款香氛",
+    "tut_story_2": "原料已采摘！工台上已备好「雨后」与「绒花」，让我们调和研制第一款香氛「春日纸信」！",
+    "tut_action_bench": "前往「工台」",
+    "tut_action_blend": "开始调和",
+    "tut_tip_go_bench": "原料已备齐，点击「工台」开始调香",
+    "tut_tip_blend": "雨后与绒花已放入，点击「调和」开始制作",
+    "tut_phase_3": "定香出瓶",
+    "tut_title_3_cure": "香氛定香中",
+    "tut_story_3_cure": "香调起雾交融，正在定香中。可使用加速卡立即出瓶，也可稍作等待～",
+    "tut_title_3_done": "定香凝萃完成",
+    "tut_story_3_done": "香氛凝萃已完成！点击出瓶，将「春日纸信」摆上铺面货架！",
+    "tut_action_speedup": "使用加速卡",
+    "tut_action_claim": "定香出瓶",
+    "tut_tip_speedup": "香氛正在定香，点击「使用加速卡」快速完成",
+    "tut_tip_claim": "定香完成啦！点击「定香出瓶」摆上货架",
+    "tut_phase_4": "交付客人",
+    "tut_title_4": "首款香氛上架",
+    "tut_story_4": "第一瓶香氛「春日纸信」已上架！散步的邻居被香气吸引进店，快去将香氛交付给客人吧！",
+    "tut_action_shop": "返回「铺面」",
+    "tut_action_deliver": "交付客人",
+    "tut_tip_go_shop": "香氛已制成，点击下方「返回铺面」",
+    "tut_tip_deliver": "散步的邻居来访，点击「交付」完成首单",
+    "tut_step_go_window": "点「窗台」前往采香",
+    "tut_step_harvest": "点 1号盆「采摘」",
+    "tut_step_go_bench": "点「前往工台研香」",
+    "tut_step_blend": "点「✨ 开始研制」",
+    "tut_step_wait_cure": "点「⚡ 加速卡」催化",
+    "tut_step_claim": "点「✨ 定香出瓶」",
+    "tut_step_go_shop": "点「铺面」返回迎客",
+    "tut_step_deliver": "点客人「交付」完成",
+    "tut_finger_window": "前往「窗台」 🌿",
+    "tut_finger_deliver": "点击交付客人 🎁",
+    "tut_finger_bench": "前往「工台」 🧪",
+    "tut_finger_harvest": "采摘「雨后」 🌿",
+    "tut_finger_bench_craft": "前往「工台」研香 🧴",
+    "tut_finger_shop": "返回「铺面」 🏪",
+    "tut_finger_blend": "点击开始研制 🧪",
+    "tut_finger_speedup": "使用加速卡 ⚡",
+    "tut_finger_claim": "点击定香出瓶 🍶",
+    "celeb_badge": "🌸 开张大吉 🌸",
+    "celeb_title": "恭喜掌柜完成新人指引！",
+    "celeb_desc": "已成功研制并交付首瓶香氛「春日纸信」！\n散步的邻居赞不绝口，窗南小铺正式名扬四方！",
+    "celeb_tag_rep": "口碑 +1",
+    "celeb_tag_pots": "窗台全开",
+    "celeb_tag_album": "图鉴装潢",
+    "celeb_tag_craft": "自由研制",
+    "celeb_btn": "开启香氛之旅 ✨",
+    "news_header": "【窗南晨报 · 第 {day} 营业日】",
+    "news_trend": "市场风向",
+    "news_bonus_available": "🎁 晨光签到礼：金币 +20 · 加速卡 +1（开业即领）",
+    "news_bonus_claimed": "✨ 今日晨光签到礼已领，祝掌柜财源广进",
+    "news_btn_claim_open": "收下晨礼 · 开启营业 ✨",
+    "news_btn_open": "开启今日营业 ✨"
+  }
+}

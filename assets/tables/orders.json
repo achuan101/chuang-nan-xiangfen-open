@@ -1,0 +1,98 @@
+[
+  {
+    "id": "order_init_01",
+    "guestId": "guest_walk",
+    "requiredTag": "清新",
+    "rewardCoin": 30
+  },
+  {
+    "id": "order_02",
+    "guestId": "guest_student",
+    "requiredTag": "花",
+    "rewardCoin": 30
+  },
+  {
+    "id": "order_03",
+    "guestId": "guest_tea",
+    "requiredTag": "草",
+    "rewardCoin": 36
+  },
+  {
+    "id": "order_04",
+    "guestId": "guest_commuter",
+    "requiredTag": "静",
+    "rewardCoin": 35
+  },
+  {
+    "id": "order_05",
+    "guestId": "guest_afternoon",
+    "requiredTag": "暖",
+    "rewardCoin": 32
+  },
+  {
+    "id": "order_06",
+    "guestId": "guest_night",
+    "requiredTag": "夜",
+    "rewardCoin": 38
+  },
+  {
+    "id": "order_07",
+    "guestId": "guest_flower",
+    "requiredTag": "花",
+    "rewardCoin": 35
+  },
+  {
+    "id": "order_08",
+    "guestId": "guest_artisan",
+    "requiredTag": "木",
+    "rewardCoin": 40
+  },
+  {
+    "id": "order_09",
+    "guestId": "guest_poetry",
+    "requiredTag": "静",
+    "rewardCoin": 38
+  },
+  {
+    "id": "order_10",
+    "guestId": "guest_book",
+    "requiredTag": "木",
+    "rewardCoin": 42
+  },
+  {
+    "id": "order_11",
+    "guestId": "guest_fruit",
+    "requiredTag": "果",
+    "rewardCoin": 34
+  },
+  {
+    "id": "order_12",
+    "guestId": "guest_luca",
+    "requiredTag": "草",
+    "rewardCoin": 38
+  },
+  {
+    "id": "order_13",
+    "guestId": "guest_arya",
+    "requiredTag": "清新",
+    "rewardCoin": 36
+  },
+  {
+    "id": "order_14",
+    "guestId": "guest_hans",
+    "requiredTag": "暖",
+    "rewardCoin": 42
+  },
+  {
+    "id": "order_15",
+    "guestId": "guest_mia",
+    "requiredTag": "果",
+    "rewardCoin": 35
+  },
+  {
+    "id": "order_16",
+    "guestId": "guest_jinyunu",
+    "requiredTag": "夜",
+    "rewardCoin": 40
+  }
+]

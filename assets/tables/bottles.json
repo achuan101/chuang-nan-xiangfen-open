@@ -1,0 +1,238 @@
+[
+  {
+    "id": "spring_letter",
+    "name": "春日纸信",
+    "shape": "spray",
+    "colorDots": [
+      "#7EC8C8",
+      "#F4B6C2"
+    ],
+    "tags": [
+      "清新",
+      "花"
+    ],
+    "blurb": "进门换鞋那一瞬",
+    "price": 30,
+    "sprite": "art/bottles/spring_letter.png",
+    "album": true,
+    "lore": "信纸浸过江南雨季的水汽，夹在旧竹匣里慢慢晾干。启封那一瞬，扑面而来的是刚被微风揉开的花瓣与湿润纸香。"
+  },
+  {
+    "id": "evening_lamp",
+    "name": "晚归灯",
+    "shape": "frost_square",
+    "colorDots": [
+      "#F9D57E",
+      "#8FA67A"
+    ],
+    "tags": [
+      "暖",
+      "静"
+    ],
+    "blurb": "屋檐下等你的那盏昏黄",
+    "price": 35,
+    "sprite": "art/bottles/evening_lamp.png",
+    "album": true,
+    "lore": "向晚归家时，深巷拐角处总亮着那盏温暖的油灯。柴木微微噼啪，木门微掩，让所有奔波劳碌的人都在光晕里踏实下来。"
+  },
+  {
+    "id": "courtyard_orange",
+    "name": "院角青橘",
+    "shape": "round",
+    "colorDots": [
+      "#7EC8C8",
+      "#FFAA5A"
+    ],
+    "tags": [
+      "清新",
+      "果"
+    ],
+    "blurb": "院子里刚剥开的那层青皮",
+    "price": 32,
+    "sprite": "art/bottles/courtyard_orange.png",
+    "album": true,
+    "lore": "南窗院角的老橘树结了小果，贪玩掐破一层薄绿嫩皮，略带微苦的清冽酸甜在指尖炸开，惊飞了树梢停憩的麻雀。"
+  },
+  {
+    "id": "sun_rain",
+    "name": "窗南雨后",
+    "shape": "spray",
+    "colorDots": [
+      "#7EC8C8",
+      "#F9D57E"
+    ],
+    "tags": [
+      "清新",
+      "暖"
+    ],
+    "blurb": "晒过水汽的窗格子",
+    "price": 32,
+    "sprite": "art/bottles/sun_rain.png",
+    "album": true,
+    "lore": "半边天落着阵雨，半边天却透着大片暖阳。日光照在湿漉漉的窗棂与青石阶上，水汽蒸腾而起，暖意与清冽交织成诗。"
+  },
+  {
+    "id": "tea_petal",
+    "name": "茶汤绒花",
+    "shape": "round",
+    "colorDots": [
+      "#8FA67A",
+      "#F4B6C2"
+    ],
+    "tags": [
+      "木",
+      "花"
+    ],
+    "blurb": "一盏茶还没凉，花已经开了",
+    "price": 34,
+    "sprite": "art/bottles/tea_petal.png",
+    "album": true,
+    "lore": "小炉慢煨着一注粗陶淡茶，桌边刚采回的粉嫩绒花悄悄散开。茶汤的温润甘醇与花瓣的柔美交融，安宁而耐人寻味。"
+  },
+  {
+    "id": "citrus_blossom",
+    "name": "橘花信",
+    "shape": "frost_square",
+    "colorDots": [
+      "#FFAA5A",
+      "#F4B6C2"
+    ],
+    "tags": [
+      "果",
+      "花"
+    ],
+    "blurb": "袖口里藏着的一点甜",
+    "price": 34,
+    "sprite": "art/bottles/citrus_blossom.png",
+    "album": true,
+    "lore": "信笺寄去远方前，在袖口里悄悄揉了一瓣橙花与半片甜橘。拆信人未见字迹，便先嗅到了字里行间藏不住的一点甜意。"
+  },
+  {
+    "id": "night_breeze",
+    "name": "晚风寒",
+    "shape": "round",
+    "colorDots": [
+      "#8A9CD8",
+      "#8FA67A"
+    ],
+    "tags": [
+      "静",
+      "夜",
+      "木"
+    ],
+    "blurb": "夜半寒风穿过竹林",
+    "price": 40,
+    "sprite": "art/bottles/night_breeze.png",
+    "album": true,
+    "lore": "三更梆声已过，夜半山间清冽的晚风悄悄翻过窗棂，拂动案头残墨，带进竹林深处静谧而微寒的深青草木香。"
+  },
+  {
+    "id": "morning_dew",
+    "name": "晨露微草",
+    "shape": "spray",
+    "colorDots": [
+      "#E2F0CB",
+      "#7EC8C8"
+    ],
+    "tags": [
+      "清新",
+      "草",
+      "水"
+    ],
+    "blurb": "天还没亮，草叶上的水珠",
+    "price": 38,
+    "sprite": "art/bottles/morning_dew.png",
+    "album": true,
+    "lore": "东方微白，晨雾还未散去。早起的匠人俯身采撷草尖最晶莹的第一滴朝露，纯净通透，带着泥土苏醒时的青涩生机。"
+  },
+  {
+    "id": "warm_sandalwood",
+    "name": "暖檀香",
+    "shape": "frost_square",
+    "colorDots": [
+      "#D4B895",
+      "#F9D57E"
+    ],
+    "tags": [
+      "暖",
+      "木"
+    ],
+    "blurb": "手捧暖炉闻到的木头香",
+    "price": 45,
+    "sprite": "art/bottles/warm_sandalwood.png",
+    "album": true,
+    "lore": "冬日围炉而坐，炭火深处埋着一小块老檀木。双手捧着热陶杯，随着暖流慢慢泛上来的，是沉淀了数十载岁月的安心木香。"
+  },
+  {
+    "id": "flower_dew",
+    "name": "沾露绒花",
+    "shape": "round",
+    "colorDots": [
+      "#E2F0CB",
+      "#F4B6C2"
+    ],
+    "tags": [
+      "清新",
+      "草",
+      "花"
+    ],
+    "blurb": "还沾着露水的粉色花朵",
+    "price": 36,
+    "sprite": "art/bottles/flower_dew.png",
+    "album": true,
+    "lore": "庭院晨光初现，纤细的花瓣上尚悬着欲坠未坠的露珠。指尖轻触，娇嫩芬芳伴着晨露的凉意一同化在掌心里。"
+  },
+  {
+    "id": "quiet_night",
+    "name": "夜静青橘",
+    "shape": "frost_square",
+    "colorDots": [
+      "#8A9CD8",
+      "#FFAA5A"
+    ],
+    "tags": [
+      "静",
+      "夜",
+      "果"
+    ],
+    "blurb": "窗外夜色正好，剥了一颗橘子",
+    "price": 42,
+    "sprite": "art/bottles/quiet_night.png",
+    "album": true,
+    "lore": "窗外月朗星稀，四围万籁俱寂。随手剥开一颗夜橘，清爽的果皮芳香穿透深沉的暗夜，带来一份独处时的清醒与快慰。"
+  },
+  {
+    "id": "deep_wood",
+    "name": "深林檀木",
+    "shape": "spray",
+    "colorDots": [
+      "#D4B895",
+      "#8FA67A"
+    ],
+    "tags": [
+      "木",
+      "静",
+      "暖"
+    ],
+    "blurb": "像是在没人的深林里走了很久",
+    "price": 48,
+    "sprite": "art/bottles/deep_wood.png",
+    "album": true,
+    "lore": "循着古道走入松杉参天的深林腹地。脚下是厚积如锦的松针，四周是苍劲沉稳的古树幽香，天地间仿佛只余己身。"
+  },
+  {
+    "id": "practice_bottle",
+    "name": "灰雾练习瓶",
+    "shape": "small_round",
+    "colorDots": [
+      "#999999",
+      "#666666"
+    ],
+    "tags": [],
+    "blurb": "雾气消散后的随手练作",
+    "price": 8,
+    "sprite": "art/bottles/practice_bottle.png",
+    "album": false,
+    "lore": "调香偶有相冲，炉火温微，虽未成正谱，却也是研习香道必经之途。"
+  }
+]

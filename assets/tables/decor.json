@@ -1,0 +1,28 @@
+{
+  "_notice": "货架升级消耗以 economy.json shelfUpgradeCosts 为准，此处 cost 保留兼做显示参考",
+  "shelfTiers": [
+    { "id": "shelf_1", "name": "旧木四格", "slots": 4, "cost": 0 },
+    { "id": "shelf_2", "name": "窗南八格", "slots": 8, "cost": 200 },
+    { "id": "shelf_3", "name": "通透十二格", "slots": 12, "cost": 600 }
+  ],
+  "wallpapers": [
+    { "id": "paper_warm", "name": "午后暖阳", "cost": 0, "sprite": "shop/bg", "tintHex": "#FFFFFF" },
+    { "id": "paper_breeze", "name": "风铃草丘", "cost": 50, "sprite": "shop/bg_breeze", "tintHex": "#7EB868" },
+    { "id": "paper_snow", "name": "冰雪初冬", "cost": 40, "sprite": "shop/bg_snow", "tintHex": "#7EC8E8" },
+    { "id": "paper_night", "name": "静谧夜阑", "cost": 60, "sprite": "shop/bg_night", "tintHex": "#2D3445" },
+    { "id": "paper_mint", "name": "青瓷微雨", "cost": 30, "sprite": "shop/bg_mint", "tintHex": "#8FA67A" },
+    { "id": "paper_dusk", "name": "暮色斜阳", "cost": 45, "sprite": "shop/bg", "tintHex": "#E8C4B8" }
+  ],
+  "rugs": [
+    { "id": "rug_none", "name": "无地毯", "cost": 0 },
+    { "id": "rug_flower", "name": "碎花绒毯", "cost": 50, "tintHex": "#F4B6C2" },
+    { "id": "rug_wood", "name": "编织藤垫", "cost": 40, "tintHex": "#D4B895" },
+    { "id": "rug_mint", "name": "薄荷薄毯", "cost": 55, "tintHex": "#A8D5C4" }
+  ],
+  "lights": [
+    { "id": "light_none", "name": "自然光", "cost": 0 },
+    { "id": "light_warm", "name": "暖黄吊灯", "cost": 45, "tintHex": "#FFD9A8" },
+    { "id": "light_moon", "name": "月白纱灯", "cost": 55, "tintHex": "#C8B8E8" },
+    { "id": "light_amber", "name": "琥珀台灯", "cost": 50, "tintHex": "#F0B27A" }
+  ]
+}

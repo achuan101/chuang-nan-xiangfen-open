@@ -1,0 +1,146 @@
+[
+  {
+    "id": "guest_walk",
+    "name": "散步的邻居",
+    "avatar": "art/guests/guest_walk.png",
+    "dialog": "今天想闻起来干净一点。",
+    "requiredTag": "清新",
+    "baseRewardCoin": 30,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_student",
+    "name": "捧书的少女",
+    "avatar": "art/guests/guest_student.png",
+    "dialog": "想找一瓶像晴天院子里的味道。",
+    "requiredTag": "花",
+    "baseRewardCoin": 30,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_tea",
+    "name": "采茶寻香的茶客",
+    "avatar": "art/guests/guest_tea.png",
+    "dialog": "新茶刚焙好，想找一味带露水草香的清润香气佐茶。",
+    "requiredTag": "草",
+    "baseRewardCoin": 36,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_commuter",
+    "name": "晚归的旅人",
+    "avatar": "art/guests/guest_commuter.png",
+    "dialog": "累了一整天，想找点让人心安的沉静香气。",
+    "requiredTag": "静",
+    "baseRewardCoin": 35,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_afternoon",
+    "name": "晒太阳的阿姨",
+    "avatar": "art/guests/guest_afternoon.png",
+    "dialog": "想带一点窗子上的暖意回家。",
+    "requiredTag": "暖",
+    "baseRewardCoin": 32,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_night",
+    "name": "乘凉的街坊",
+    "avatar": "art/guests/guest_night.png",
+    "dialog": "夏夜的风里要是有点香气就好了。",
+    "requiredTag": "夜",
+    "baseRewardCoin": 38,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_flower",
+    "name": "插花弄草的姑娘",
+    "avatar": "art/guests/guest_flower.png",
+    "dialog": "院里的素馨花刚剪下来，还想配一瓶水汽透亮的花香。",
+    "requiredTag": "花",
+    "baseRewardCoin": 35,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_artisan",
+    "name": "手作木器的小哥",
+    "avatar": "art/guests/guest_artisan.png",
+    "dialog": "刚刨好一段樟木小盒，想寻一味温厚沉稳的木香。",
+    "requiredTag": "木",
+    "baseRewardCoin": 40,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_poetry",
+    "name": "倚窗赋诗的书客",
+    "avatar": "art/guests/guest_poetry.png",
+    "dialog": "雨声淅沥，就盼着一缕幽微安适的清净香气。",
+    "requiredTag": "静",
+    "baseRewardCoin": 38,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_book",
+    "name": "找灵感的画师",
+    "avatar": "art/guests/guest_book.png",
+    "dialog": "想找点木质调的味道，能让人沉下心来。",
+    "requiredTag": "木",
+    "baseRewardCoin": 42,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_fruit",
+    "name": "带小孩的母亲",
+    "avatar": "art/guests/guest_fruit.png",
+    "dialog": "有那种甜滋滋的果子香吗？家里的小孩喜欢。",
+    "requiredTag": "果",
+    "baseRewardCoin": 34,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_luca",
+    "name": "游方乐师·卢卡",
+    "avatar": "art/guests/guest_luca.png",
+    "dialog": "酒馆里太喧闹了，就想寻一味山野雨后青草泥土的清润草香佐琴。",
+    "requiredTag": "草",
+    "baseRewardCoin": 38,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_arya",
+    "name": "远行学者·艾莉亚",
+    "avatar": "art/guests/guest_arya.png",
+    "dialog": "连夜整理草木考察札记，最盼着一缕如清晨微风般干干净净的清凉。",
+    "requiredTag": "清新",
+    "baseRewardCoin": 36,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_hans",
+    "name": "舶来客商·汉斯",
+    "avatar": "art/guests/guest_hans.png",
+    "dialog": "船队远洋归航靠岸，就想带一味如壁炉烘晒般踏实温暖的暖意回家。",
+    "requiredTag": "暖",
+    "baseRewardCoin": 42,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_mia",
+    "name": "寻香少女·米娅",
+    "avatar": "art/guests/guest_mia.png",
+    "dialog": "江南水乡集市上的甜果子真诱人，想挑一瓶水灵欢快的鲜果香带走。",
+    "requiredTag": "果",
+    "baseRewardCoin": 35,
+    "rewardReputation": 1
+  },
+  {
+    "id": "guest_jinyunu",
+    "name": "戏班名伶·金玉奴",
+    "avatar": "art/guests/guest_jinyunu.png",
+    "dialog": "今夜梨园有大戏开锣，登台前想寻一抹幽雅出尘的月下夜调伴我水袖起舞。",
+    "requiredTag": "夜",
+    "baseRewardCoin": 40,
+    "rewardReputation": 1
+  }
+]

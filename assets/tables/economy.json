@@ -1,0 +1,49 @@
+{
+  "maxActionPoints": 10000,
+  "apRecoverMinutes": 5,
+  "gatherCost": 1,
+  "blendCost": 2,
+  "curingSeconds": 90,
+  "potGrowSeconds": 180,
+  "initialCoins": 10000,
+  "initialActionPoints": 10000,
+  "initialSpeedups": 10000,
+  "adApRestore": 5,
+  "adApDailyLimit": 3,
+  "failRefundCount": 1,
+  "refreshOrderCoinCost": 5,
+  "shelfSlotTiers": [
+    4,
+    8,
+    12
+  ],
+  "shelfUpgradeCosts": [
+    200,
+    600
+  ],
+  "potRotations": {
+    "1": [
+      "A",
+      "B",
+      "C",
+      "F"
+    ],
+    "2": [
+      "B",
+      "D",
+      "E",
+      "G"
+    ],
+    "3": [
+      "E",
+      "C",
+      "A",
+      "H"
+    ]
+  },
+  "signinRewardSpeedups": 3,
+  "signinRewardCoins": 20,
+  "noteUnlockDay3Reputation": 3,
+  "refreshOrderFreeDaily": 1,
+  "adSpeedupDailyLimit": 3
+}

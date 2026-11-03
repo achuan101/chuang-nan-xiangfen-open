@@ -1,0 +1,30 @@
+{
+  // tests/ 用独立 tsconfig：根 tsconfig 面向 Cocos/微信运行时，没有 Node 类型。
+  // 继承根配置以拿到 temp/declarations 里的 cc 声明（AudioKit 等平台无关脚本仍会 import 'cc'），
+  // 再把 Node 内置类型限定到 tests/。
+  "extends": "../tsconfig.json",
+  "compilerOptions": {
+    "target": "ES2017",
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "lib": ["ES2017", "DOM"],
+    "types": [
+      "node",
+      "../temp/declarations/cc.custom-macro",
+      "../temp/declarations/cc",
+      "../temp/declarations/jsb",
+      "../temp/declarations/cc.env"
+    ],
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "strict": false,
+    "experimentalDecorators": true,
+    "isolatedModules": false,
+    "noEmit": true
+  },
+  "include": [
+    "./**/*.ts",
+    "../assets/scripts/**/*.ts"
+  ]
+}

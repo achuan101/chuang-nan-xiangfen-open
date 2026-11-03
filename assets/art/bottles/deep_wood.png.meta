@@ -1,0 +1,134 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "a98629de-ca2d-4e40-a50f-f90b2590877d",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "a98629de-ca2d-4e40-a50f-f90b2590877d@6c48a",
+      "displayName": "deep_wood",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "imageUuidOrDatabaseUri": "a98629de-ca2d-4e40-a50f-f90b2590877d",
+        "isUuid": true,
+        "visible": false,
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f9941": {
+      "importer": "sprite-frame",
+      "uuid": "a98629de-ca2d-4e40-a50f-f90b2590877d@f9941",
+      "displayName": "deep_wood",
+      "id": "f9941",
+      "name": "spriteFrame",
+      "userData": {
+        "trimThreshold": 1,
+        "rotated": false,
+        "offsetX": -0.5,
+        "offsetY": -3,
+        "trimX": 27,
+        "trimY": 36,
+        "width": 137,
+        "height": 190,
+        "rawWidth": 192,
+        "rawHeight": 256,
+        "borderTop": 0,
+        "borderBottom": 0,
+        "borderLeft": 0,
+        "borderRight": 0,
+        "packable": true,
+        "pixelsToUnit": 100,
+        "pivotX": 0.5,
+        "pivotY": 0.5,
+        "meshType": 0,
+        "vertices": {
+          "rawPosition": [
+            -68.5,
+            -95,
+            0,
+            68.5,
+            -95,
+            0,
+            -68.5,
+            95,
+            0,
+            68.5,
+            95,
+            0
+          ],
+          "indexes": [
+            0,
+            1,
+            2,
+            2,
+            1,
+            3
+          ],
+          "uv": [
+            27,
+            220,
+            164,
+            220,
+            27,
+            30,
+            164,
+            30
+          ],
+          "nuv": [
+            0.140625,
+            0.1171875,
+            0.8541666666666666,
+            0.1171875,
+            0.140625,
+            0.859375,
+            0.8541666666666666,
+            0.859375
+          ],
+          "minPos": [
+            -68.5,
+            -95,
+            0
+          ],
+          "maxPos": [
+            68.5,
+            95,
+            0
+          ]
+        },
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "a98629de-ca2d-4e40-a50f-f90b2590877d@6c48a",
+        "atlasUuid": "",
+        "trimType": "auto"
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "sprite-frame",
+    "fixAlphaTransparencyArtifacts": false,
+    "hasAlpha": true,
+    "redirect": "a98629de-ca2d-4e40-a50f-f90b2590877d@6c48a"
+  }
+}
