@@ -46,6 +46,7 @@
 │   │   ├── logic/    # 调香合成、订单匹配、客人来访等业务逻辑
 │   │   └── ui/       # 各玩法界面面板与交互组件
 │   └── tables/       # 数值配置表（recipes.json, guests.json, bottles.json 等）
+├── extensions/       # Cocos Creator 扩展插件（内置 cocos-mcp-3x 桥接工具）
 ├── settings/         # Cocos Creator 3.8 项目设定与分辨率适配
 ├── tests/            # 离线自动化逻辑检查与布局验证脚本
 ├── COPYING.md        # 详细版权、素材使用与免责声明
